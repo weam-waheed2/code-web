@@ -1,6 +1,6 @@
 # code-web
 
-demo :
+to demo :
 
 
 http://eycodes.com/
